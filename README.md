@@ -45,9 +45,11 @@ B0942002 沈琮瑋
 
 ## 設定Android
 -選擇語言
+
 ![image](https://user-images.githubusercontent.com/106866951/172013746-232332d9-0717-4ebf-b04f-18645fc769ab.png)
 
 -更新日期
+
 ![image](https://user-images.githubusercontent.com/106866951/172013774-e0045684-bac8-43c8-b7ba-e4072f461824.png)
 
 -就完成Android.os啦!
