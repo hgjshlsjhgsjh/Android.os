@@ -4,7 +4,7 @@
 
 B0842026 羅健瑋
 
-B0942002 沈琮瑋
+B0942002 沈鮭魚之夢
 
 <!-- vim-markdown-toc GFM -->
 
@@ -50,7 +50,7 @@ B0942002 沈琮瑋
 
 -更新日期
 
-![image](https://user-images.githubusercontent.com/106866951/172013774-e0045684-bac8-43c8-b7ba-e4072f461824.png)
+![image](https://user-images.githubusercontent.com/106866951/172015760-7a054379-ff50-470b-98ff-1835d0ae7ec4.png)
 
 -就完成Android.os啦!
 ![image](https://user-images.githubusercontent.com/106866951/172013811-dfb71d97-5462-42ff-aa0f-bccafd146cb3.png)
