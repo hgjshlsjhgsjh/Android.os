@@ -24,3 +24,12 @@ B0942002 沈琮瑋
 
 ![image](https://user-images.githubusercontent.com/106866951/172011260-8240d92c-46aa-4d83-9546-fb04d1337dff.png)
 ![image](https://user-images.githubusercontent.com/106866951/172011315-8e076a5f-f0fa-47c7-8a0f-cf1463a668af.png)
+
+## 安裝Android.os軟體
+-開啟剛剛設定的虛擬機，選擇最下面的選項
+![image](https://user-images.githubusercontent.com/106866951/172012198-165b74e6-9057-4242-877e-411bdc2890fb.png)
+
+-選擇第四個自動安裝，之後選擇YES
+![image](https://user-images.githubusercontent.com/106866951/172012318-522692f4-506c-47a8-831d-c6c621e18c62.png)
+![image](https://user-images.githubusercontent.com/106866951/172012533-c1e54ed7-8158-420f-9e5e-8a77eb96f684.png)
+
