@@ -55,6 +55,9 @@ B0942002 沈琮瑋
 
 ## 參考資料
 [電腦版安卓系統哪家強，小白使用過後告訴你 Android OS For PC](https://www.gushiciku.cn/dl/1ldq2/zh-tw)
+
 [Linux上的5種最佳Android模擬器](https://www.gushiciku.cn/dl/0gZpQ/zh-tw)
+
 [推薦適用於 Linux 的五種最佳 Android 模擬器](https://ppfocus.com/0/mi30deb03.html)
+
 [Linux上的5種最佳Android模擬器](https://kknews.cc/zh-tw/code/8kn5gee.html)
