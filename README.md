@@ -6,6 +6,13 @@ B0842026 羅健瑋
 
 B0942002 沈琮瑋
 
+<!-- vim-markdown-toc GFM -->
+
+* [下載Android.os檔案](#下載Android.os檔案)
+* [設立虛擬機](#設立虛擬機)
+* [安裝Android.os軟體](#安裝Android.os軟體)
+* [設定Android](#設定Android)
+* [參考資料](#參考資料)
 ## 下載Android.os檔案
 -選擇Android-x86-8.1-r6.iso檔案下載
 ![image](https://user-images.githubusercontent.com/106866951/172007825-7492208b-a865-44e6-bc9c-2e1d223ec3fb.png)
@@ -33,3 +40,21 @@ B0942002 沈琮瑋
 ![image](https://user-images.githubusercontent.com/106866951/172012318-522692f4-506c-47a8-831d-c6c621e18c62.png)
 ![image](https://user-images.githubusercontent.com/106866951/172012533-c1e54ed7-8158-420f-9e5e-8a77eb96f684.png)
 
+-安裝好後，開啟Android-x86
+![image](https://user-images.githubusercontent.com/106866951/172013350-4fd3e3ab-5530-4de7-9508-6388a05da62b.png)
+
+## 設定Android
+-選擇語言
+![image](https://user-images.githubusercontent.com/106866951/172013746-232332d9-0717-4ebf-b04f-18645fc769ab.png)
+
+-更新日期
+![image](https://user-images.githubusercontent.com/106866951/172013774-e0045684-bac8-43c8-b7ba-e4072f461824.png)
+
+-就完成Android.os啦!
+![image](https://user-images.githubusercontent.com/106866951/172013811-dfb71d97-5462-42ff-aa0f-bccafd146cb3.png)
+
+## 參考資料
+[電腦版安卓系統哪家強，小白使用過後告訴你 Android OS For PC](https://www.gushiciku.cn/dl/1ldq2/zh-tw)
+[Linux上的5種最佳Android模擬器](https://www.gushiciku.cn/dl/0gZpQ/zh-tw)
+[推薦適用於 Linux 的五種最佳 Android 模擬器](https://ppfocus.com/0/mi30deb03.html)
+[Linux上的5種最佳Android模擬器](https://kknews.cc/zh-tw/code/8kn5gee.html)
