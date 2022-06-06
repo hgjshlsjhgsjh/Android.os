@@ -6,6 +6,9 @@ B0842026 羅健瑋
 
 B0942002 沈鮭魚之夢
 
+實作Youtube影片
+[https://github.com/hgjshlsjhgsjh/Android.os/blob/main/README.md](https://github.com/hgjshlsjhgsjh/Android.os/blob/main/README.md)
+
 <!-- vim-markdown-toc GFM -->
 
 * [下載Android.os檔案](#下載Android.os檔案)
@@ -15,6 +18,10 @@ B0942002 沈鮭魚之夢
 * [參考資料](#參考資料)
 ## 下載Android.os檔案
 -選擇Android-x86-8.1-r6.iso檔案下載
+
+下載網址
+[https://osdn.net/projects/android-x86/releases](https://osdn.net/projects/android-x86/releases)
+
 ![image](https://user-images.githubusercontent.com/106866951/172007825-7492208b-a865-44e6-bc9c-2e1d223ec3fb.png)
 
 ## 設立虛擬機
