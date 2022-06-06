@@ -10,7 +10,7 @@ B0942002 沈鮭魚之夢
 
 * [下載Android.os檔案](#下載Android.os檔案)
 * [設立虛擬機](#設立虛擬機)
-* [安裝Android.os軟體](#安裝Android.os軟體)
+* [安裝Android.os軟體](#安裝Android.os 軟體)
 * [設定Android](#設定Android)
 * [參考資料](#參考資料)
 ## 下載Android.os檔案
