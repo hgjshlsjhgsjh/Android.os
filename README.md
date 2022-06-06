@@ -7,7 +7,8 @@ B0842026 羅健瑋
 B0942002 沈鮭魚之夢
 
 實作Youtube影片
-[https://github.com/hgjshlsjhgsjh/Android.os/blob/main/README.md](https://github.com/hgjshlsjhgsjh/Android.os/blob/main/README.md)
+
+[https://youtu.be/WcU0k4Flw6I](https://youtu.be/WcU0k4Flw6I)
 
 <!-- vim-markdown-toc GFM -->
 
